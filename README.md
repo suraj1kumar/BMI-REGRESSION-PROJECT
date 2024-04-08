@@ -1,3 +1,3 @@
-## BMI INDEX ANALYSIS
+# BMI INDEX ANALYSIS
 # overview
 
