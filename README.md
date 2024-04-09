@@ -1,7 +1,7 @@
 # BMI INDEX ANALYSIS
-# overview
+# Overview
 This project aims to analyze BMI (Body Mass Index) data to gain insights into the distribution of BMI across different demographics and to understand its implications on health.
-# introduction
+# Introduction
 Body Mass Index (BMI) is a measure derived from an individual's height and weight, often used as an indicator of body fatness and associated health risks. This project involves analyzing BMI data to explore trends, patterns, and correlations related to BMI across various factors such as age, and gender.
 # Data
 The data used for this analysis was obtained from Kaggle. It includes anonymized information about individuals' height, weight, age, gender, and other relevant attributes.
